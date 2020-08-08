@@ -1,3 +1,8 @@
 #define GRAVE_ESC_GUI_OVERRIDE    # Always send Escape if GUI is pressed
 // #define RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_LAYERS
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_DELAY 0
+#define MOUSEKEY_TIME_TO_MAX 10
+#define MOUSEKEY_MAX_SPEED 5
+#define MOUSEKEY_WHEEL_DELAY 0
